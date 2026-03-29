@@ -1,0 +1,15 @@
+cues:
+  - slide_id: "s01"
+    cue: "fade_in"
+    at: "start"
+  - slide_id: "s02"
+    cue: "fade_transition"
+    at: "start"
+  - slide_id: "s03"
+    cue: "none"
+    at: "start"
+  - slide_id: "s04"
+    cue: "hold"
+    at: "start"
+    param:
+      duration_s: 3.0

@@ -1,0 +1,20 @@
+id: "001-system-storytelling"
+title: "System Storytelling — Failure Propagation and Root Cause"
+slug: "system-storytelling-failure-rca"
+theme: "distributed-systems"
+audience: "senior engineers"
+thesis: "Failures surface away from their origins; root cause requires tracing the system end to end."
+status: "draft"
+duration_target_min: 8
+draft_date: "2026-03-28"
+publish_date: null
+tags:
+  - distributed-systems
+  - failure-propagation
+  - root-cause-analysis
+  - technical-storytelling
+links: {}
+source_post: null
+audio_mode: "segmented"
+build:
+  video_name: "presentation.mp4"

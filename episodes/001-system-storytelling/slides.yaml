@@ -1,0 +1,40 @@
+slides:
+  - id: "s01"
+    type: "title"
+    title: "System Landscape"
+    body:
+      - "Modern systems are deeply interconnected."
+    visual_intent: "Minimal landscape / system context; calm left-text layout."
+    narration_ref: "n01"
+    motion_preset: "fade_in"
+    notes: "Opening slide; sets interconnected-systems framing."
+
+  - id: "s02"
+    type: "content"
+    title: "Failure Signal"
+    body:
+      - "What breaks for the user is often not where the issue starts."
+    visual_intent: "Contrast surface symptom vs hidden origin."
+    narration_ref: "n02"
+    motion_preset: "fade_transition"
+    notes: "Aligns with README act 2."
+
+  - id: "s03"
+    type: "content"
+    title: "Deeper Causes"
+    body:
+      - "Top-level incidents are often driven by deeper infrastructure and interactions."
+    visual_intent: "Layered or downstream emphasis."
+    narration_ref: "n03"
+    motion_preset: "reveal_next"
+    notes: "README act 3; motion is intent-only in v1 video (see motion-cues)."
+
+  - id: "s04"
+    type: "closing"
+    title: "Root Cause Analysis"
+    body:
+      - "Tracing the system is required to identify the real trigger."
+    visual_intent: "Closing frame; RCA and tracing mindset."
+    narration_ref: "n04"
+    motion_preset: "hold"
+    notes: "Final slide; README act 4."

@@ -1,0 +1,16 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Björn Adler
+
+The creative content in this repository— including but not limited to episode
+YAML/Markdown, slide copy in `slides.yaml`, `narration.md`, bundled slide images,
+audio, and prose documentation under `docs/` — is licensed under CC BY 4.0.
+
+You must give appropriate credit to **Björn Adler**, provide a link to the
+license, and indicate if changes were made. Commercial use is allowed under
+these terms.
+
+Full license: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+Software in `scripts/` is licensed separately; see `LICENSE` (MIT).
