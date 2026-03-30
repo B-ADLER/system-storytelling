@@ -83,6 +83,7 @@ This is a **deterministic presentation-to-video system**: a **controlled pipelin
 
 **Watch:** LinkedIn — https://www.linkedin.com/feed/update/urn:li:activity:7444269728962977792/)
 
+
 **Local:** after `build_video.py`, open **`dist/001-system-storytelling/<video_name>.mp4`** (default `presentation.mp4`).
 
 ---
