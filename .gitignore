@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+*.bak
+
+# PoC render intermediates (not part of validate/build contract)
+episodes/901-render-poc/render-cache/
